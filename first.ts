@@ -45,7 +45,7 @@ if (typeof (unknow) === 'string') {
   unknow.toUpperCase() // string인지 확인이 돼야 toUpperCase()가능 ,
 }
 
-function hello() {
+function hellohello() {
   console.log('하이')  //ts가 return이없으면  스스로 void임을 인식함
 }
 
